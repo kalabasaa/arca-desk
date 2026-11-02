@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace arca_desk.Pages
 {
-    public partial class reciepts : UserControl
+    public partial class Receipts : UserControl
     {
-        public reciepts()
+        public Receipts()
         {
             InitializeComponent();
         }

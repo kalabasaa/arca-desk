@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace arca_desk.Pages
 {
-    public partial class Suply : UserControl
+    public partial class Supply : UserControl
     {
-        public Suply()
+        public Supply()
         {
             InitializeComponent();
         }

@@ -1,4 +1,4 @@
-﻿namespace arca_desk
+﻿namespace arca_desk.Pages
 {
     partial class Inventory
     {

@@ -6,11 +6,11 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace arca_desk
+namespace arca_desk.Pages
 {
-    public partial class DashboardPage : UserControl
+    public partial class Dashboard : UserControl
     {
-        public DashboardPage()
+        public Dashboard()
         {
             InitializeComponent();
         }

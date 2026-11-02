@@ -1,6 +1,6 @@
-﻿namespace arca_desk
+﻿namespace arca_desk.Pages
 {
-    partial class DashboardPage
+    partial class Dashboard
     {
         /// <summary> 
         /// Required designer variable.

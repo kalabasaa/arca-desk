@@ -1,6 +1,6 @@
 ﻿namespace arca_desk.Pages
 {
-    partial class Suply
+    partial class Supply
     {
         /// <summary> 
         /// Required designer variable.

@@ -1,6 +1,6 @@
 ﻿namespace arca_desk.Pages
 {
-    partial class reciepts
+    partial class Receipts
     {
         /// <summary> 
         /// Required designer variable.
