@@ -82,7 +82,10 @@ arca_desk/
 
 ## Screenshots
 
-Application screenshots will be added as development progresses.
+Arca Desk is currently under development. The screenshot below shows the application's current progress.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/25290d72-e920-4705-9ff5-7b99a8b82ed6" />
+
 
 ## Related Project
 
@@ -92,7 +95,7 @@ Application screenshots will be added as development progresses.
 
 ### Renier Tambogon
 
-**Developer · Designer**
+**Lead Developer**
 
 Responsible for the development, interface design, and implementation of Arca Desk.
 
@@ -100,6 +103,6 @@ Responsible for the development, interface design, and implementation of Arca De
 
 ## License
 
-Copyright (c) 2026 Renier Tambogon
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Licensing details will be added later.
+Copyright (c) 2026 Renier Tambogon
